@@ -1,0 +1,37 @@
+{
+  "variantName": "columns-hero",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-07-14T06:09:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/",
+    "originPage": "WKND Trendsetters home page",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "hero",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading + subheading + 2 CTAs + image collage",
+    "buttonCount": 2,
+    "imageCount": 3
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "page-intro hero with text and image collage side-by-side",
+      "landing pages needing a two-column headline + media layout"
+    ],
+    "notSuitableFor": [
+      "full-bleed background-image hero (use hero-banner)",
+      "single image + short caption"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-07-14T06:09:00.000Z"
+  }
+}
